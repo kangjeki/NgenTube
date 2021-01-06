@@ -3,3 +3,4 @@
 !temp/*
 # Except this file
 !.gitignore
+.keepdir
